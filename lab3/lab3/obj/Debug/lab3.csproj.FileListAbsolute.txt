@@ -1,0 +1,24 @@
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\obj\Debug\lab3.fMain.resources
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\obj\Debug\lab3.fPlane.resources
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\Юра будет дуть\source\repos\lab3\lab3\obj\Debug\lab3.exe.config
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\obj\Debug\lab3.exe.config
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\obj\Debug\lab3.fMain.resources
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\obj\Debug\lab3.fPlane.resources
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Юра будет дуть\source\repos\2 семестр\lab3\lab3\obj\Debug\lab3.pdb
